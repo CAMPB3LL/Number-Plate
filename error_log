@@ -1,0 +1,340 @@
+[01-Mar-20[29-Sep-2021 07:33:13 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[29-Sep-2021 07:33:14 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[29-Sep-2021 07:33:14 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[29-Sep-2021 07:33:15 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[30-Sep-2021 07:33:17 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[30-Sep-2021 07:33:19 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[30-Sep-2021 07:33:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[30-Sep-2021 07:33:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 03:19:38 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 07:31:38 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 07:31:39 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 07:31:40 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 07:31:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[01-Oct-2021 12:31:28 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[02-Oct-2021 07:38:49 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[02-Oct-2021 07:38:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[02-Oct-2021 07:38:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[02-Oct-2021 07:38:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[03-Oct-2021 07:31:33 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[03-Oct-2021 07:31:34 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[03-Oct-2021 07:31:36 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[03-Oct-2021 07:31:37 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 05:47:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[04-Oct-2021 06:04:32 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 06:04:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 06:15:06 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 07:31:48 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 07:31:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 07:31:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[04-Oct-2021 07:31:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 01:45:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[05-Oct-2021 02:59:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[05-Oct-2021 07:32:56 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 07:32:56 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 07:32:57 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 07:32:57 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 12:18:33 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[05-Oct-2021 12:18:35 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[06-Oct-2021 07:36:20 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[06-Oct-2021 07:36:20 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[06-Oct-2021 07:36:21 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[06-Oct-2021 07:36:21 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[07-Oct-2021 00:45:44 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[07-Oct-2021 07:37:36 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[07-Oct-2021 07:37:36 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[07-Oct-2021 07:37:37 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[07-Oct-2021 07:37:38 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 07:34:09 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 07:34:10 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 07:34:10 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 07:34:11 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 16:54:31 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 16:54:32 America/Chicago] PHP Fatal error:  Uncaught Google\Service\Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php:128
+Stack trace:
+#0 /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php(103): Google\Http\REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google\\Service\\...')
+#1 [internal function]: Google\Http\REST::doExecu in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php on line 128
+[08-Oct-2021 23:51:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[08-Oct-2021 23:52:06 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[08-Oct-2021 23:52:30 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:09:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[09-Oct-2021 00:09:42 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:10:56 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:59:17 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:59:17 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 00:59:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[09-Oct-2021 00:59:25 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:59:25 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 00:59:40 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 00:59:40 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 01:00:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:00:23 America/Chicago] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 01:00:26 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:00:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE), expecting ',' or ';' in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 01:07:03 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:07:03 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/redcaios/public_html/profile.php on line 13
+[09-Oct-2021 01:07:42 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:07:48 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:08:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:08:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:13:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:13:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:13:43 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:14:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:14:16 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 01:15:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 04:07:29 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 07:39:48 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 07:39:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 07:39:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[09-Oct-2021 07:39:52 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:26:28 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:26:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[10-Oct-2021 00:26:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:26:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:26:57 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:28:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:28:25 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:28:27 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:28:32 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:29:35 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:29:42 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:30:05 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:30:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:32:11 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:32:14 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:36:58 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:37:01 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:37:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:37:15 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:37:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:37:44 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:38:04 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:38:06 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:38:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:39:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:39:45 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:39:47 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:44:58 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:45:03 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:45:52 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:45:56 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:45:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 40
+[10-Oct-2021 00:46:01 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:46:28 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:46:32 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:46:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 41
+[10-Oct-2021 00:48:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:48:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:48:55 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:48:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 44
+[10-Oct-2021 00:49:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:49:27 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:49:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 43
+[10-Oct-2021 00:50:05 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:50:10 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:50:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 43
+[10-Oct-2021 00:50:21 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:50:37 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:51:13 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:51:19 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:51:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 00:51:27 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:07:58 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:08:02 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:08:04 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:10:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:10:28 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:10:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 44
+[10-Oct-2021 01:10:31 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:12:44 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:12:46 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:12:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 44
+[10-Oct-2021 01:12:54 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 01:16:04 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:33:01 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:33:03 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:33:46 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:34:11 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:34:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 44
+[10-Oct-2021 02:35:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[10-Oct-2021 02:35:39 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:35:44 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:39:25 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:39:30 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:39:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 5
+[10-Oct-2021 02:39:54 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:39:57 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:39:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 5
+[10-Oct-2021 02:39:58 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:40:21 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:40:28 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:40:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:40:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 5
+[10-Oct-2021 02:41:07 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:41:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 6
+[10-Oct-2021 02:41:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:41:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 6
+[10-Oct-2021 02:41:43 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:41:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/redcaios/public_html/index.php:26) in /home3/redcaios/public_html/profile.php on line 6
+[10-Oct-2021 02:42:44 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:43:03 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:43:07 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:43:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[10-Oct-2021 02:43:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:44:18 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:54:45 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:54:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 02:54:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/redcaios/public_html/profile.php on line 11
+[10-Oct-2021 02:54:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/redcaios/public_html/profile.php on line 11
+[10-Oct-2021 03:03:27 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:32 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/redcaios/public_html/profile.php on line 11
+[10-Oct-2021 03:03:46 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:03:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home3/redcaios/public_html/profile.php on line 11
+[10-Oct-2021 03:04:00 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 03:07:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 07:37:35 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 07:37:35 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 07:37:36 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 07:37:36 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[10-Oct-2021 09:56:33 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 04:34:32 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 07:34:07 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 07:34:08 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 07:34:08 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 07:34:09 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 15:24:13 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 15:24:15 America/Chicago] PHP Fatal error:  Uncaught Google\Service\Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php:128
+Stack trace:
+#0 /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php(103): Google\Http\REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google\\Service\\...')
+#1 [internal function]: Google\Http\REST::doExecu in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php on line 128
+[11-Oct-2021 23:54:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[11-Oct-2021 23:59:24 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[11-Oct-2021 23:59:26 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:00:35 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:00:38 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:01:35 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:01:39 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:02:45 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:02:48 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:03:07 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:03:09 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:03:39 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:03:41 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:03:50 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:05:07 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:05:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 00:05:57 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 06:25:49 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 06:25:50 America/Chicago] PHP Fatal error:  Uncaught Google\Service\Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php:128
+Stack trace:
+#0 /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php(103): Google\Http\REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google\\Service\\...')
+#1 [internal function]: Google\Http\REST::doExecu in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php on line 128
+[12-Oct-2021 07:31:47 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 07:31:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 07:31:54 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 07:31:56 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[12-Oct-2021 19:56:15 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 07:37:11 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 07:37:11 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 07:37:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 07:37:12 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 15:06:38 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[13-Oct-2021 15:06:40 America/Chicago] PHP Fatal error:  Uncaught Google\Service\Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php:128
+Stack trace:
+#0 /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php(103): Google\Http\REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google\\Service\\...')
+#1 [internal function]: Google\Http\REST::doExecu in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php on line 128
+[14-Oct-2021 06:13:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[14-Oct-2021 06:13:54 America/Chicago] PHP Fatal error:  Uncaught Google\Service\Exception: {
+  "error": {
+    "code": 401,
+    "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+    "errors": [
+      {
+        "message": "Request is missing required authentication credential. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.",
+        "domain": "global",
+        "reason": "unauthorized"
+      }
+    ],
+    "status": "UNAUTHENTICATED"
+  }
+}
+ in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php:128
+Stack trace:
+#0 /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php(103): Google\Http\REST::decodeHttpResponse(Object(GuzzleHttp\Psr7\Response), Object(GuzzleHttp\Psr7\Request), 'Google\\Service\\...')
+#1 [internal function]: Google\Http\REST::doExecu in /home3/redcaios/public_html/vendor/google/apiclient/src/Http/REST.php on line 128
+[14-Oct-2021 07:34:44 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[14-Oct-2021 07:34:45 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[14-Oct-2021 07:34:46 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[14-Oct-2021 07:34:46 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[15-Oct-2021 07:33:50 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[15-Oct-2021 07:33:51 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[15-Oct-2021 07:33:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[15-Oct-2021 07:33:53 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 04:10:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home3/redcaios/public_html/g_callback.php on line 37
+[16-Oct-2021 04:13:42 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 04:14:01 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 07:38:21 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 07:38:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 07:38:22 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
+[16-Oct-2021 07:38:23 America/Chicago] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home3/redcaios/public_html/index.php on line 12
